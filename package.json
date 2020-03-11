@@ -1,0 +1,26 @@
+{
+  "name": "booksearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node.js": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephLedbetter/booksearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephLedbetter/booksearch/issues"
+  },
+  "homepage": "https://github.com/JosephLedbetter/booksearch#readme",
+  "description": "This setup allows for a Node/Express/React app which can be easily deployed to Heroku."
+}
